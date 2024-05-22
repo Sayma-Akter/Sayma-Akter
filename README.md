@@ -5,7 +5,7 @@
 
 I have completed my Bachelor degree from the Department of Computer Science and Engineering of Daffodil International University. I have experience in Mobile Application design, development and deployment.I also have experience in implementing Web Applications. Proficient in Android UI development, skilled in using custom Views, with relevant development experience. I have strong logical thinking, clear mindset, diligent work attitude, sense of responsibility and teamwork spirit.
 
-Skills: HTML5 / CSS/Java Script/JAVA/PHP/ANDROID/MYSQL/FIREBASE/DART/FLUTTER/Machine Lerarning/
+Skills: HTML5 / CSS/Java Script/JAVA/PHP/ANDROID/MYSQL/FIREBASE/DART/FLUTTER/Machine Lerarning
 
 - 🔭 I’m currently working on Web & Mobile application Development 
 - 🌱 I’m currently learning App Develoment with Flutter 
