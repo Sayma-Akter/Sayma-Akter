@@ -1,5 +1,5 @@
 
-![Web & Mobile App Developer](https://media.licdn.com/dms/image/D4D03AQEvPhOfTaIGiQ/profile-displayphoto-shrink_800_800/0/1714893281933?e=1721865600&v=beta&t=8TspYP2v2VwD0IOL9h9aQ36FGryTJN0YjNy5XrX1fzM)
+![Web & Mobile App Developer](https://media.licdn.com/dms/image/D5603AQELITO_ARXq-A/profile-displayphoto-shrink_400_400/0/1716418400524?e=1721865600&v=beta&t=vTl_lN6wTMNAHqXLaG6sx5MmfQQqALlhjLVX_1VoA2E)
 ## Hi👋, I’m Sayma Akter
 ##### Web & Mobile App Developer
 
@@ -14,4 +14,3 @@ Skills: HTML5 / CSS/Java Script/JAVA/PHP/ANDROID/MYSQL/FIREBASE/DART/FLUTTER/Mac
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Sayma-Akter)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sayma-akter05//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/sayma.akter.73307/)  
-
