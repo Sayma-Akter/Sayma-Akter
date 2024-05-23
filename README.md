@@ -1,5 +1,5 @@
 
-![Web & Mobile App Developer](https://media.licdn.com/dms/image/D5603AQELITO_ARXq-A/profile-displayphoto-shrink_400_400/0/1716418400524?e=1721865600&v=beta&t=vTl_lN6wTMNAHqXLaG6sx5MmfQQqALlhjLVX_1VoA2E)
+![Web & Mobile App Developer](https://media.licdn.com/dms/image/D5616AQHJ_ErmLPpvyg/profile-displaybackgroundimage-shrink_350_1400/0/1716422834150?e=1721865600&v=beta&t=n1WqKYc_O62y8rYZg0gtDy6HOe_FS2-Lj1Cn8zrMCD8)
 ## Hi👋, I’m Sayma Akter
 ##### Web & Mobile App Developer
 
